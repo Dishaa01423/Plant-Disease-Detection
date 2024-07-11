@@ -16,5 +16,5 @@ jobs:
           lfs: true
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{ secrets.HF_Token }}
         run: git push --force https://Dishaa01423:$HF_TOKEN@huggingface.co/spaces/Dishaa01423/Plant_Disease_Detection main
