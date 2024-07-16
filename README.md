@@ -65,15 +65,6 @@ The app uses a pre-trained Vision Transformer (ViT) model fine-tuned on a datase
 
 Contributions to improve the Tomato Disease Detective are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[MIT License](LICENSE)
-
-## Acknowledgements
-
-- Tomato disease dataset: [Source if applicable]
-- Icons and images: [Credits if applicable]
-
 ## Contact
 
 For any queries or suggestions, please open an issue in this repository.
