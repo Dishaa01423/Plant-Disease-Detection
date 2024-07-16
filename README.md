@@ -36,7 +36,13 @@ Tomato Disease Detective is an AI-powered web application that helps gardeners a
 
 1. Clone this repository
 2. Install the required dependencies:
+```sh
+pip install -r requirements.txt
+```
 3. Run the Streamlit app:
+```sh
+streamlit run app.py
+```
 4. Upload a clear image of a tomato leaf
 5. Review the AI's diagnosis and recommendations
 
